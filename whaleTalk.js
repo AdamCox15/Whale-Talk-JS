@@ -1,3 +1,4 @@
+//First time writing the whale talk project
 const input = 'I am still the greatest and I am pretty - Bone Thugs n Harmony';
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 let resultArray = [];
@@ -18,7 +19,7 @@ const resultString = resultArray.join('').toUpperCase();
 console.log(resultString);
 
 
-
+//Second time writing the whale talk project
 const input = 'Conner McDavid is the best hockey player in the world!';
 const vowels = ['a', 'e', 'i', 'o','u'];
 const resultArray = [];
